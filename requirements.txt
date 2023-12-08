@@ -1,13 +1,14 @@
 aiohttp
 aiofiles
 aioshutil
-anytree==2.8.0
+anytree
 apscheduler
 aria2p
 asyncio
 bencoding
 beautifulsoup4
 cfscrape
+cloudscraper
 dnspython
 feedparser
 flask
@@ -16,7 +17,6 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-git+https://github.com/zevtyardt/lk21.git
 httpx
 lxml
 motor
@@ -33,6 +33,7 @@ speedtest-cli
 telegraph
 tenacity
 tgCrypto
+urllib3
 uvloop
 xattr
 yt-dlp
